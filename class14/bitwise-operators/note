@@ -1,0 +1,4 @@
+& = * name(AND)
+| = + name(OR)
+^ = + name(ExOR)
+

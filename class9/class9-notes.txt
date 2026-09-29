@@ -1,0 +1,4 @@
+1 operator reminder is only for int not for double or float
+2 showpoint is use for show point??non showpoint the ans like 10 with showpoint the ans like10.000000
+3 setprecision is for many point(.)num and note set precision is only for #include<iomanip> file
+setw means the text need  how many hone

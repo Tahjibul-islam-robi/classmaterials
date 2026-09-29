@@ -1,0 +1,2 @@
+leftshift = 2 dhara gon(*)
+Right shift = 2 dhara bhag(/)

@@ -1,0 +1,26 @@
+Class 34: do-while loops and their guaranteed first iteration
+=============================================================
+
+Instructor explanation
+Emphasize that do-while checks its condition after running the body, so the body executes at least once. The semicolon after the condition is part of the syntax.
+
+Board walkthrough
+1. Ask learners what problem the example is solving.
+2. Point out the relevant C++ syntax and name the values that change as the program runs.
+3. Trace one ordinary input, then test a boundary case. Have learners predict the output before running the program.
+4. Summarize the rule in learners' own words and connect it to the next class.
+
+Guided practice
+Start with a condition that is false at the beginning and observe the single execution; then adjust the counter to repeat several times.
+
+Independent task
+Make one small variation to the example in this folder. Write down the expected output first, run the program, and explain any difference. Include one edge case appropriate to the topic.
+
+Check for understanding
+- Which concept from this lesson controls the program's behavior?
+- What changes when the input or state changes?
+- What boundary case should the program handle?
+
+Course files
+class34-1.cpp
+Use the archived screenshots only as planning references. Present newly written explanations, diagrams, and examples in class.
